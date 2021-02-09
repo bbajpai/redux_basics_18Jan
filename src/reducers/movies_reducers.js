@@ -13,3 +13,9 @@ export default function(state=null,action){
 //         {id:1,name:'ABC'}
 //     ]
 // }
+// //const data2 = {
+//     type:'SHOW_DATA',
+//     payload:[
+//         {id:1,city:'QWE'}
+//     ]
+// }
